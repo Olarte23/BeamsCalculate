@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beam.Logic", "Beam.Logic\Beam.Logic.csproj", "{950FE821-70E6-475D-AE65-64578128983D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise.UI.Console", "Exercise.UI.Console\Exercise.UI.Console.csproj", "{D5E17A82-7CC2-48DE-98AC-CEFFAC41F068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950FE821-70E6-475D-AE65-64578128983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950FE821-70E6-475D-AE65-64578128983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950FE821-70E6-475D-AE65-64578128983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950FE821-70E6-475D-AE65-64578128983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E17A82-7CC2-48DE-98AC-CEFFAC41F068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E17A82-7CC2-48DE-98AC-CEFFAC41F068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E17A82-7CC2-48DE-98AC-CEFFAC41F068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E17A82-7CC2-48DE-98AC-CEFFAC41F068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A26B1A-E2DE-4B49-BEE1-90AB59DE0215}
+	EndGlobalSection
+EndGlobal
